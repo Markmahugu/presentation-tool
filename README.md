@@ -34,4 +34,4 @@ This web presentation tool has the following features:
 
 ## Feedback and support
 
-If you have any feedback, questions, or issues, please feel free to open an issue or a pull request on this repository. You can also contact me at markmozez00@gmail.com.com`.
+If you have any feedback, questions, or issues, please feel free to open an issue or a pull request on this repository. You can also contact me at markmozez00@gmail.com.com.
